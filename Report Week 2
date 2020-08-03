@@ -1,0 +1,7 @@
+In a city of your choice, if someone is looking to open a restaurant, where would you recommend that they open it? Similarly, if a contractor is trying to start their own business, where would you recommend that they setup their office? My introduction for this project will be to find a safe location for opening commercial establishments in Vancouver interested in a Grocery Store.
+
+I will be using the geographical coordinates of Vancouver to plot neighbourhood in a borough that is safe and cluster the neighborhoods. Using a real world dataset from the city of Vancouver from Foursquare Location Data.
+
+The objective of the business problem was to help stakeholders identify one of the safest borough in Vancouver, and an appropriate neighborhood within the borough to set up a commercial establishment especially a Grocery store.
+
+Conclusion: We have explored the crime data to understand different types of crimes in all neighborhoods of Vancouver and later categorized them into different boroughs, this helped us group the neighborhoods into boroughs and choose the safest borough first. Once we confirmed the borough the number of neighborhoods for consideration also comes down, we further shortlist the neighborhoods based on the common venues, to choose a neighborhood which best suits the business problem.
